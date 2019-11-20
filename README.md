@@ -5,3 +5,5 @@ sdfvksdkv;sldkv
 ;sdlkd sv;lksd;vlk druga zmiana
 sv;sdlkv sd;vlk sdv
 sdv s;dlv ksdvk;sd lv;skd vlsdkv
+
+Trzecia zmiana
