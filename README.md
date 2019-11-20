@@ -8,4 +8,4 @@ sdv s;dlv ksdvk;sd lv;skd vlsdkv
 w branchu
 Trzecia zmiana
 zmiana od anty_spam
-
+zmiana w branchu as
