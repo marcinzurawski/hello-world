@@ -9,3 +9,4 @@ w branchu
 Trzecia zmiana
 zmiana od anty_spam
 zmiana w branchu as
+test zmian
