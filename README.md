@@ -1,6 +1,7 @@
 # hello-world
 Hello World!
 bla bla bla
+Tu robię lokalną zmianę ikonki.
 sdfvksdkv;sldkv
 ;sdlkd sv;lksd;vlk druga zmiana
 sv;sdlkv sd;vlk sdv
