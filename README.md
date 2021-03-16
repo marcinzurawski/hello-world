@@ -13,3 +13,4 @@ zmiana w branchu as
 test zmian
 nowa zmiana 23.02.2021
 Zmiana dla tasku 3.
+Zmiana nazwy.
